@@ -1,5 +1,6 @@
 Arduino Library for Dallas Temperature ICs
 
+img
 [![wireTemp.png](https://i.postimg.cc/WzZpNZJD/wireTemp.png)](https://postimg.cc/QKXZSHms)
 
 ==========================================
